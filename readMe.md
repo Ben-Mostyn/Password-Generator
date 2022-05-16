@@ -1,6 +1,6 @@
-![Safety First](img/Safety-First.png)
+![Safety First](img/password.png)
 
-`Safety First` is the easiest way to securely create a password.
+Generate a safe unique password
 
 ![GIF demo](img/password.gif)
 
