@@ -10,7 +10,7 @@ Generate a safe unique password
 Usage: stronghold.py [OPTIONS]
 
   Securely configure your Password.
-  Developed by Rhys Ward -> (Github: Rhys-ward)
+  Developed by Ben Mostyn -> (Github: Ben-Mostyn)
 
 
 Options:
